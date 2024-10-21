@@ -24,7 +24,7 @@
    foaf:familyName "Morales" ;
    foaf:age 22 ;
    foaf:img <http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvy85bhqXNWFR3Q6WIVsCqrpvauxZjn5ZRuQ&s> ;
-   foaf:knows <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#ah> , <http://users.dcc.uchile.cl/~adconcha/foaf.ttl#ab> , <http://users.dcc.uchile.cl/~rzanca/foaf.ttl> ;
+   foaf:knows <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#ah> , <https://raw.githubusercontent.com/Sulkyy1/profile/refs/heads/main/foaf.ttl#su> , <http://users.dcc.uchile.cl/~rzanca/foaf.ttl#rz> ;
    foaf:interest dbr:Semantic_Web , <http://dbpedia.org/resource/Rubik's_Cube> , dbr:Anime , dbr:Video_game_industry , dbr:The_Legend_of_Zelda ;
    social:likesMovie <http://dbpedia.org/resource/Deadpool_(film)> , dbr:Suzume_no_Tojimari , dbr:Donnie_Darko , <http://dbpedia.org/resource/Paprika_(2006_film)> ;
    social:hasSpiritAnimal dbr:Quokka ;
